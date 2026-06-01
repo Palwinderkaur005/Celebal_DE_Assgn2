@@ -227,22 +227,21 @@ products (1:N) order_items
 
 ## Files Included
 
-```text
-SQL-Sales-Analysis/
+Celebal_DE_Assgn2/
 │
 ├── README.md
 ├── Superstore_analysis.sql
 ├── ShopEase_Database.sql
 ├── DE_Assgn2 ques-ans.pdf
 ├── SQL_Queries&Result.pdf
+├── archive(2).zip
 ├── Screenshots/
-│   ├── Query_Outputs
-│   ├── Sales_Analysis
-│   └── Database_Schema
+│   ├── SQL_Queries& Result SS
+│   ├── DE_Assgn2 ques-ans SS
+│   
 
 ```
 
----
 
 ## Learning Outcomes
 
